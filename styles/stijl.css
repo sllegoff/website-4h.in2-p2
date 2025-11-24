@@ -38,9 +38,13 @@ h2.intro {
 }
 nav ul {
     list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 nav ul li {
-    margin: 40px;
+    margin: 40px 10px 40px 10px;
 }
 nav ul li a {
     text-decoration: none;
@@ -48,6 +52,10 @@ nav ul li a {
     border-radius: 5px;
     padding: 10px 20px 10px 20px;
     background-color: rgba(255, 255, 255, 0.5);
+}
+nav li.logo a {
+    border: none;
+    padding: none;
 }
 section.artikel {
     border: 5px outset gray;
