@@ -69,3 +69,6 @@ img.usb-stick {
     padding: 3px;
     background-color: lavender;
 }
+aside {
+    flex-direction: column;
+}
