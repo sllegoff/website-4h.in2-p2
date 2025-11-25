@@ -67,7 +67,7 @@ nav ul li a {
     padding: 10px 20px 10px 20px;
     background-color: rgba(255, 255, 255, 0.5);
 }
-nav ul li a:hover {
+nav ul li a#nav:hover {
     border: 2px solid black;
     background-color: rgb(102, 102, 102);
     color: rgb(0, 0, 0);
