@@ -69,7 +69,7 @@ section.artikel {
     border-radius: 20px 0px 20px 0px;
     margin: 100px;
     padding: 10px 80px 10px 80px;
-    background-color: #f5f5dc;
+    background-color: #e5e5dd;
 }
 img.usb-stick {
     border: 5px ridge red;
@@ -78,4 +78,27 @@ img.usb-stick {
 }
 aside {
     flex-direction: column;
+}
+h2.vraag {
+    border: 5px outset gray;
+    padding: 10px 80px 10px 80px;
+    margin-left: 100px;
+    background-color: aliceblue;
+    border-radius: 20px 0 20px 0;
+}
+p.antwoord {
+    border: 2px solid gray;
+    padding: 5px 40px 5px 40px;
+    margin-left: 100px;
+    background-color: aliceblue;
+    border-radius: 20px 20px 20px 20px;
+}
+h2.titel, p#uitleg {
+    text-align: center;
+}
+p.antwoord {
+    font-style: italic;
+}
+p.vraag {
+    font-family: Arial, Helvetica, sans-serif;
 }
