@@ -1,4 +1,8 @@
 /* © Sam le Goff 2025 */
+* {
+    padding: 0;
+    margin: 0;
+}
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
@@ -6,7 +10,11 @@ body {
 header#intro {
     background-image: url(../images/terminal.jpg);
     height: 200px;
-}
+    align-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}f
 h1, h2 {
     font-family: 'Times New Roman', Times, serif;
 }
@@ -17,6 +25,7 @@ h1 {
 }
 h1.intro {
     color: aliceblue;
+    -webkit-text-stroke: 1px black;
 }
 h2 {
     font-size: 180%;
@@ -35,6 +44,11 @@ h2.intro {
     font-style: italic;
     font-size: 140%;
     text-align: center;
+}
+nav {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 nav ul {
     list-style-type: none;
@@ -78,6 +92,11 @@ img.usb-stick {
 }
 aside {
     flex-direction: column;
+    border: 5px outset gray;
+    background-color: #e5e5dd;
+    border-radius: 20px;
+    padding: 20px;
+    height: fit-content;
 }
 h2.vraag {
     border: 5px outset gray;
@@ -101,4 +120,25 @@ p.antwoord {
 }
 p.vraag {
     font-family: Arial, Helvetica, sans-serif;
+}
+footer p {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+#container {
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 20px;
+}
+p#aside {
+    color: black;
+}
+footer {
+    background-color: #424242;
+    padding: 10px;
 }
