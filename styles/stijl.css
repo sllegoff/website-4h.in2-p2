@@ -14,11 +14,16 @@ header#intro {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}f
+}
 h1, h2 {
     font-family: 'Times New Roman', Times, serif;
 }
 h1 {
+    font-size: 250%;
+    color: rgb(15, 15, 94);
+    text-align: center;
+}
+h1.titel {
     font-size: 250%;
     color: rgb(15, 15, 94);
     text-align: center;
