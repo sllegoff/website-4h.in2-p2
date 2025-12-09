@@ -1,0 +1,4 @@
+exclude:
+  - .gitignore
+  - CNAME
+permalink: pretty
