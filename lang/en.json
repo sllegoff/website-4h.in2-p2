@@ -25,7 +25,7 @@
     "start-art3-inhoud4":"3. Flash the ISO file on the USB-stick.<br>This can be done with <a href=\"https://rufus.ie/nl/\">Rufus</a> for example.",
     "start-art3-inhoud5":"4. Restart the device and go to the BIOS/UEFI.<br>To do that, on most devices you need to hold a key while restarting such as delete or F2 tijdens het opstraten zoals Delete of F2.",
     "start-art3-inhoud6":"5. Boot into the USB-stick through the BIOS/UEFI.<br>Read the manual of your device if you don't know how to do this.",
-    "start-art3-inhoud7":"6. Volg het installatieproces.<br>Hoe dit moet ligt aan je distributie maar meestal is het voorzelfsprekend.",
+    "start-art3-inhoud7":"6. Follow the installation process.<br>How this is done depends on your distribution but most times it's straightforward.",
     "start-art3-foto-alt":"A USB stick that could be used to install Linux",
     "aside-titel":"Links:",
     "aside-link1":"Linux community platform",
