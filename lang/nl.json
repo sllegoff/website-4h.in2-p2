@@ -23,7 +23,7 @@
     "start-art3-inhoud2":"1. Haal een USB-stick.<br>Voor meeste distributies is 16GB genoeg.",
     "start-art3-inhoud3":"2. Download een ISO-bestand van je distributie van voorkeur.<br>Let wel op dat het moet passen bij je apparaat (let op x86, arm, amd/intel, 32-bit, 64-bit, etc.).",
     "start-art3-inhoud4":"3. Flash het ISO-bestand op de USB-stick.<br>Dit kan met bijvoorbeeld <a href=\"https://rufus.ie/nl/\">Rufus</a>.",
-    "start-art3-inhoud5":"4. Start het apparaat opnieuw op en ga naar de BIOS/UEFI.<br>Op meeste apparaat moet je om dat te doen een toets drukken tijdens het opstraten zoals Delete of F2.",
+    "start-art3-inhoud5":"4. Start het apparaat opnieuw op en ga naar de BIOS/UEFI.<br>Op meeste apparaat moet je om dat te doen een toets drukken tijdens het opstarten zoals Delete of F2.",
     "start-art3-inhoud6":"5. Boot in de USB-stick via de BIOS/UEFI.<br>Lees de handleiding van je apparaat als je niet weet hoe dit moet.",
     "start-art3-inhoud7":"6. Volg het installatieproces.<br>Hoe dit moet ligt aan je distributie maar meestal is het voorzelfsprekend.",
     "start-art3-foto-alt":"Een USB-stick waar Linux op geinstaleerd zou kunnen worden",
