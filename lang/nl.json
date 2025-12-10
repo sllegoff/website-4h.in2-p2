@@ -1,6 +1,8 @@
 {
     "titel-start": "Over Linux",
-    "introtitel": "Over Linux",
+    "titel-contact":"Over Linux - Contact",
+    "start-introtitel": "Over Linux",
+    "contact-introtitel": "Contact",
     "logo-alt": "Logo",
     "nav-start":"Start",
     "nav-downloads":"Downloads",

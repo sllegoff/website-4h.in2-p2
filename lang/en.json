@@ -1,6 +1,8 @@
 {
     "titel-start": "About Linux",
-    "introtitel": "About Linux",
+    "titel-contact":"About Linux - Contact",
+    "start-introtitel": "About Linux",
+    "contact-introtitel": "Contact",
     "logo-alt": "Logo",
     "nav-start":"Home",
     "nav-downloads":"Downloads",
