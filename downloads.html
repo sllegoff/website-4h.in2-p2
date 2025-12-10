@@ -18,11 +18,12 @@
         </header>
         <nav>
             <ul>
-                <li class="logo"><a href="/"><img src="images/tux-logo.svg" height="50px" alt="Logo"></a></li>
-                <li><a id="nav" href="/">Home</a></li>
-                <li><a id="nav" href="downloads">Downloads</a></li>
-                <li><a id="nav" href="informatie">Informatie</a></li>
-                <li><a id="nav" href="contact">Contact</a></li>
+                <li class="logo"><a href="index"><img src="images/tux-logo.svg" height="50px" alt="" langdata="Logo-alt"></a></li>
+                <li><a langdata="nav-start" id="nav" href="/"></a></li>
+                <li><a langdata="nav-downloads" id="nav" href="downloads"></a></li>
+                <li><a langdata="nav-informatie" id="nav" href="informatie"></a></li>
+                <li><a langdata="nav-contact" id="nav" href="contact"></a></li>
+                <li><a id="nav"><select id="lang-selector"><option langdata="taal-nl" value="nl"></option><option langdata="taal-en" value="en"></option></select></a></li>
             </ul>
         </nav>
         <div id="container">
@@ -47,14 +48,15 @@
                 </section>
             </article>
             <aside>
-                <p id="aside"><strong>Links:</strong></p><br>
-                <p><a href="https://www.linux.org/">Linux community platform</a></p><br>    
-                <p><a href="https://en.wikipedia.org/wiki/Linux">Linux wikipedia</a></p><br>    
-                <p><a href="https://ubuntu.com/">Ubuntu (een veelgebruikte distributie)</a></p><br> 
-                <p><a href="https://bsky.app/profile/did:plc:oio4hkxaop4ao4wz2pp3f4cr/feed/linux"><img src="images/bluesky.png" width="50" alt="Bluesky"></a></p><br> 
-                <p><a href="https://www.reddit.com/r/linux/"><img src="images/reddit.png" width="50" alt="Reddit"></a></p>
+                <p id="aside"><strong langdata="aside-titel"></strong></p><br>
+                <p><a langdata="aside-link1" href="https://www.linux.org/"></a></p><br>    
+                <p><a langdata="aside-link2" href="https://en.wikipedia.org/wiki/Linux"></a></p><br>    
+                <p><a langdata="aside-link3" href="https://ubuntu.com/"></a></p><br> 
+                <p><a href="https://bsky.app/profile/did:plc:oio4hkxaop4ao4wz2pp3f4cr/feed/linux"><img langdata="aside-foto-alt1" src="images/bluesky.png" width="50" alt=""></a></p><br> 
+                <p><a href="https://www.reddit.com/r/linux/"><img langdata="aside-foto-alt2" src="images/reddit.png" width="50" alt=""></a></p>
             </aside>
         </div>
         <footer><p>&copy; 2025-<span id="currentyear"></span> Sam Le Goff - Alle rechten voorbehouden</p></footer><script src="js/currentyear.js"></script>
+        <script src="js/lang.js"></script>
     </body>
 </html>
