@@ -1,14 +1,10 @@
 {
     "titel-start": "About Linux",
     "titel-contact":"About Linux - Contact",
-
-    "titel-informatie":"Over Linux - Informatie",
-
+    "titel-informatie":"About Linux - Information",
     "start-introtitel": "About Linux",
     "contact-introtitel": "Contact",
-
-    "informatie-introtitel":"Informatie",
-
+    "informatie-introtitel":"Information",
     "logo-alt": "Logo",
     "nav-start":"Home",
     "nav-downloads":"Downloads",
@@ -43,19 +39,14 @@
     "contact-art2-inhoud":"For technical problems, suggestions or something else related to this site you can also go to the <a href=\"https://github.com/ffogellmas/website-4h.in2-p2\">GitHub page</a> of this website.",
     "contact-art3-titel":"Phone",
     "contact-art3-inhoud":"For if you have an unimportant reason to contact me, and also feel like a song, you can call my partner Rick at <a href=\"tel:+12484345508\">+1-248-434-5508</a> (call on own costs). If you actually want a response you should use the ways above.",
-    
-    "informatie-titel":"Veelgestelde vragen",
-    "informatie-titel-uitleg":"Hier zal ik wat veelgestelde vragen beantwoorden over deze website. Heb je nog meer vragen? Ga dan naar de contactpagina.",
-    "informatie-art1-titel":"Waarom deze website?",
-    "informatie-art1-inhoud":"Ik heb deze website gemaakt omdat ikzelf Linux een geweldig bestuurssysteem vind tegenover alternatieven en ik gebruik het zelf ook voor mijn laptop en PC, maar er is veel te weinig aandacht voor, dus meeste mensen weten niet eens dat het bestaat. Deze website bestaat dus om meer aandacht te vragen voor Linux en ik hoop dat meer mensen het gaan gebruiken.",
-
-    "informatie-art2-titel":"Hoe is deze website gemaakt?",
-    "informatie-art2-inhoud":"Ik heb de website handmatig gecodeerd en ik heb gebruikt gemaakt van <a href=\"https://code.visualstudio.com/\">Visual Studio Code</a> en <a href=\"https://github.com/ffogellmas/website-4h.in2-p2\">GitHub</a>. Ik heb 1 lijn aan code van <a href=\"https://stackoverflow.com/a/4562604\">Stackoverflow</a> genomen<br>Deze website is gemaakt door een echt persoon.",
-
-    "informatie-art3-titel":"Door wie is deze website gemaakt?",
-    "informatie-art3-inhoud":"Dat kan ik beantwoorden, ook al voelt dat raar want ik heb de vraag ook moeten opschrijven. Ik ben Sam, je hebt me mischien al gezien aan de copyright onderaan de pagina. Ik heb deze website gemaakt voor een schoolopdracht. Voor de rest is er niks interessants dat jij over mij hoeft te weten.",
-
-
+    "informatie-titel":"FAQ",
+    "informatie-titel-uitleg":"Here i will answer some frequently asked questions about the site. Do you still have more questions? Go to the contact page.",
+    "informatie-art1-titel":"Why this website?",
+    "informatie-art1-inhoud":"I made this website because i find Linux a great operating system, especially compared to alternatives and i also use it myself on my own laptop and PC, but there isn't much attention for Linux, most people don't even know it exists. This website exists to raise more attention to Linux and i hope more people will start to use it.",
+    "informatie-art2-titel":"How is this website made?",
+    "informatie-art2-inhoud":"I manually coded it using <a href=\"https://code.visualstudio.com/\">Visual Studio Code</a> and <a href=\"https://github.com/ffogellmas/website-4h.in2-p2\">GitHub</a>. I did take one line from <a href=\"https://stackoverflow.com/a/4562604\">Stackoverflow</a>.<br>This website is made by a human.",
+    "informatie-art3-titel":"Who made this site?",
+    "informatie-art3-inhoud":"I can answer that, even though it feels weird because i had to type the question myself. I am Sam, you may already have seen my name at the bottom of the page. I made this website for a school assignment. Thats all the interesting stuff you need to know about me.",
     "aside-titel":"Links:",
     "aside-link1":"Linux community platform",
     "aside-link2":"Linux Wikipedia",
