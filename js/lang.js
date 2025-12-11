@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (translations['titel']) document.title = translations['titel'];
         document.querySelectorAll('[langdata]').forEach(el => {
             const key = el.getAttribute('langdata');
-            if (translations[key]) el.innerHTML = translations[key]; // <-- innerHTML
+            if (translations[key]) el.innerHTML = translations[key];
         });
         localStorage.setItem('lang', lang);
     }
